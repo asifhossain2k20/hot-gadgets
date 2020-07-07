@@ -24,3 +24,47 @@
     border-radius: 10px;
     text-align: center;
 }
+h3{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    text-align: center;
+}
+.pale-order{
+    height: 400px;
+    width: 400px;
+}
+.catagoeies h3{
+    text-align: center;
+}
+.catagoeies .under-line{
+   border-bottom: solid 3px orangered;
+}
+
+.carousel-indicators .active{
+ background-color: orange;
+ opacity: 1;
+ width: 32px;
+ height: 9px;
+ background-image: linear-gradient(45deg,#fdc21f,#fcc87a);
+ border-radius: 45%;
+ transition: .8s;
+}
+.carousel-indicators li{
+    border-radius: 46%;
+    color: gray;
+    width: 12px;
+    height: 9px;
+
+    border-radius: 44%;
+}
+.see-all h5{
+    text-align: right;
+}
+footer{
+    text-align: center;
+    color: gray;
+}

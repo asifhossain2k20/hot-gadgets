@@ -1,0 +1,26 @@
+.carousel-item{
+    padding: 20px 40px;
+   
+
+}
+.background-img{
+    background-image: url(images/product-text.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px 400px;
+    
+}
+.side-bg-img{
+    background-image: url(images/dooted-qube.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 150px 150px;
+}
+.buy-now-button{
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
